@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LuisTorres_Tarea2_4</string>
+    <string name="hint_descripcion">Descripcion</string>
+    <string name="btn_salvar">Salvar</string>
+    <string name="btn_verfimras">Ver Firmas</string>
+    <string name="btn_verfirmas">Ver Firmas</string>
+</resources>
